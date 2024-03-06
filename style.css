@@ -1,0 +1,26 @@
+body {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #FFD17A;
+    background-color: #002E00;
+    margin: 50px;
+    padding: 40px;
+}
+
+div {
+    background-color: #000099;
+    width: 50vw;
+    height: 50vh;
+    border-color: aquamarine;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 50%;
+}
+
+#position-test {
+    position: absolute;
+    left: 50px;
+    top: 100px;
+}
